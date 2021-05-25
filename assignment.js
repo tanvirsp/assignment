@@ -15,6 +15,7 @@ function kilometerToMeter(kilometer){
 
 
 
+
 //watch price 50,   phone price 100,  laptop price 500
 function budgetCalculator(watch, phone, laptop){
     //check nagetive value for watch
@@ -99,4 +100,5 @@ function megaFriend(friends){
     return megaName;
     }
 }
+
 
